@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815516989178",
+    "project_id": "authtutorial-7b8ba",
+    "storage_bucket": "authtutorial-7b8ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815516989178:android:d508966a854cb38c8ebb43",
+        "android_client_info": {
+          "package_name": "com.example.betterearth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS1gUVTQ1iLSqO94n8C_piFytiGePMldQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
